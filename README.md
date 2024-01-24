@@ -5,7 +5,7 @@
 
 Go to [LABELS SECTION](#labels-info)
 
-Click here for the [Labels[(#labels-section)
+Click here for the [Labels](#labels-section)
 
 [Task management process guide](https://github.com/PetkovBG/netflix-landing-page/blob/main/README.md)
 
